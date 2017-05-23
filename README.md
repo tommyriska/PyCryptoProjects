@@ -1,4 +1,3 @@
 # PyCryptoProjects
 
-##### This is a collection of different ways to encrypt and/or decrypt different objects.
-##### I use a python library named "PyCrypto" for the encrypt and decrypt operations. Internet told me that was the goto library for encryption in python.
+##### This is just a repository I upload python encryption projects. I use PyCrypto for these different projects. This is just for my own use, I do not recommend using it for serious purposes as I am no security expert at all.
